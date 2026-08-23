@@ -76,3 +76,6 @@ The wordmark pairs a compact DM Sans “signal” with a distinctive Fraunces �
 - The default canvas always includes a visible evidence trail and a compact reasoning ledger, so the experience reads as an active recommendation surface rather than an intake form alone.
 - The signal ring is reserved for readiness, searching, match confidence, and shortlist states; it is not used as generic decoration.
 - Every headline, CTA, and supporting label should frame a concrete decision step and avoid generic SaaS language.
+- Signal Mint `#8EF5C2` is the primary interactive and status color; blue is reserved for realistic photographic material and not used as the primary brand mark or CTA color.
+- Product images are treated as calm, slightly paper-integrated source material rather than glossy advertising.
+- Every major section includes a short Fraunces italic margin annotation to clarify a constraint, source, or decision signal.

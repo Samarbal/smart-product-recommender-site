@@ -1,0 +1,5 @@
+- [x] Collect verified specifications and reference prices for a broader set of real laptop, tablet, and 2-in-1 products.
+- [x] Record canonical manufacturer or retailer source URLs for every product surfaced by the preview.
+- [x] Replace the sample catalog with the expanded sourced product catalog and refine matching logic.
+- [x] Redesign the Signal Desk visual system around realistic laptop blues, cool metallic surfaces, and disciplined cyan status signals.
+- [x] Validate responsive filtering, product source links, visual presentation, and production build before delivery.
