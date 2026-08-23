@@ -335,7 +335,7 @@ export default function Home() {
             </div>
           )}
 
-          <footer className="canvas-footer"><span>Signal Desk / manufacturer reference catalog</span><span>Verify configurations at the source before purchase</span></footer>
+          <footer className="canvas-footer"><span>Signal Desk / manufacturer reference catalog</span><span>Verify configurations at the source before purchase</span><span className="developer-credit">Developed by Eng. Samar M. Balousha</span></footer>
         </section>
       </section>
     </main>
